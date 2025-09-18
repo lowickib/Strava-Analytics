@@ -244,11 +244,6 @@
     "region": "Lower Silesian Voivodeship",
     "country": "Poland"
   },
-  "34.148,-118.923": {
-    "locality": null,
-    "region": "California",
-    "country": "United States"
-  },
   "45.805,9.404": {
     "locality": "Garlate",
     "region": "Lombardy",
@@ -399,11 +394,6 @@
     "region": "Lower Silesian Voivodeship",
     "country": "Poland"
   },
-  "61.913,7.116": {
-    "locality": "Hjelle",
-    "region": null,
-    "country": "Norway"
-  },
   "35.253,26.265": {
     "locality": "Itanos Municipal Unit",
     "region": "Region of Crete",
@@ -518,5 +508,7075 @@
     "locality": "New York",
     "region": "New York",
     "country": "United States"
+  },
+  "34.148,-118.923": {
+    "locality": "Ventura County",
+    "region": "California",
+    "country": "United States"
+  },
+  "61.913,7.116": {
+    "locality": "Hjelle",
+    "region": "Vestland",
+    "country": "Norway"
+  },
+  "54.441,18.569": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.441,18.570": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.349,18.652": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.448,18.569": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "48.371,10.876": {
+    "locality": "Augsburg",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "-11.636,166.950": {
+    "locality": "Puma",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "51.170,16.960": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.901,10.357": {
+    "locality": "Bopfingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "-11.664,166.947": {
+    "locality": "Usili",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "51.110,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.054,19.949": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "41.906,12.496": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "41.906,12.501": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "41.908,12.500": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "41.906,12.500": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "41.907,12.500": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "-11.637,166.972": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "51.142,16.962": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.037": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.594,18.814": {
+    "locality": "Hel",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.606": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.605": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.604": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.603": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.229,20.975": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "-11.638,166.949": {
+    "locality": "Puma",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "50.901,15.348": {
+    "locality": "Świeradów-Zdrój",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.816,15.432": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.829,15.515": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.151,17.112": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.109,8.651": {
+    "locality": "Frankfurt",
+    "region": "Hesse",
+    "country": "Germany"
+  },
+  "51.101,17.122": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.042": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,17.133": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.127": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.425,18.593": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "53.918,17.862": {
+    "locality": "Wiele",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "53.918,17.861": {
+    "locality": "Wiele",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.726,15.242": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.048": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.696,15.092": {
+    "locality": "Jenin",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.744,15.218": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.734,15.233": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.407,16.907": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.781,15.217": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.025": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.058": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.073": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.035": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.126": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "41.375,2.167": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.419,2.162": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.381,2.121": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.375,2.168": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.390,2.186": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.407,2.150": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "52.757,15.249": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.072": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.064,19.982": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.248,19.080": {
+    "locality": "Katowice",
+    "region": "Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,17.062": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "53.014,18.613": {
+    "locality": "Toruń",
+    "region": "Kuyavian-Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "53.012,18.609": {
+    "locality": "Toruń",
+    "region": "Kuyavian-Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.804,15.219": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.067": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.120": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.854,9.101": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.852,9.107": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.085,17.031": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.851,9.102": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.851,9.104": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.837,9.365": {
+    "locality": "Korb",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.835,9.365": {
+    "locality": "Korb",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "50.067,19.952": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.058,19.932": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.057,19.930": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.120": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.851,9.108": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.101,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,16.988": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.078,16.996": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.851,9.103": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.851,9.105": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "53.462,14.507": {
+    "locality": "Szczecin",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,16.999": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.050": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.853,9.105": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.104,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.036,21.759": {
+    "locality": "Giżycko",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.800,21.563": {
+    "locality": "Mikołajki",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.784,21.440": {
+    "locality": "Lipowo",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.783,21.446": {
+    "locality": "Śmietki",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.866,21.307": {
+    "locality": "Mrągowo",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.782,21.446": {
+    "locality": "Lipowo",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.780,21.449": {
+    "locality": "Lipowo",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.797,21.579": {
+    "locality": "Mikołajki",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "53.784,21.441": {
+    "locality": "Lipowo",
+    "region": "Warmian-Masurian Voivodeship",
+    "country": "Poland"
+  },
+  "51.060,17.004": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.852,9.103": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.853,9.101": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.088,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "45.444,12.329": {
+    "locality": "Venice",
+    "region": "Veneto",
+    "country": "Italy"
+  },
+  "45.444,12.328": {
+    "locality": "Venice",
+    "region": "Veneto",
+    "country": "Italy"
+  },
+  "45.438,12.318": {
+    "locality": "Venice",
+    "region": "Veneto",
+    "country": "Italy"
+  },
+  "51.103,17.074": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.853,9.102": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.847,9.098": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.850,9.105": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.850,9.107": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.853,9.100": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.133,16.959": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.126,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.068": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.085,17.075": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.405,16.910": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.715,15.295": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.721,15.253": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "48.851,9.106": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "52.788,15.219": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.789,15.219": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.772,15.231": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.255,21.002": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.242,20.998": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "48.873,2.343": {
+    "locality": "Paris",
+    "region": "Ile-de-France",
+    "country": "France"
+  },
+  "48.857,2.296": {
+    "locality": "Paris",
+    "region": "Metropolitan France",
+    "country": "France"
+  },
+  "48.800,2.129": {
+    "locality": "Versailles",
+    "region": "Ile-de-France",
+    "country": "France"
+  },
+  "48.871,2.343": {
+    "locality": "Paris",
+    "region": "Ile-de-France",
+    "country": "France"
+  },
+  "51.103,17.122": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "47.798,9.681": {
+    "locality": "Unterankenreute",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.786,9.608": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.784,9.610": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.785,9.608": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.790,9.604": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.791,9.605": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.785,9.607": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.785,9.610": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.102,17.123": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.922,18.953": {
+    "locality": "Czernikowo",
+    "region": "Kuyavian-Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.443,18.554": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.423,18.600": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.789,15.218": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "50.871,20.628": {
+    "locality": "Kielce",
+    "region": "Holy Cross Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.116": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,16.996": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,16.995": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.183,15.577": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.184,15.579": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.185,15.578": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.087": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.167,15.928": {
+    "locality": "Chobienice",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,16.998": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.790,15.218": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.851,15.894": {
+    "locality": "Karpniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.841,15.888": {
+    "locality": "Strużnica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.271,14.092": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.100,17.119": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.270,14.093": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.270,14.095": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.269,14.092": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.271,14.091": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.087,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.297,14.106": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.272,14.088": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.325,14.122": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.376,14.070": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.272,14.090": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.114,17.112": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.059": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.058": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.377,14.071": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.377,14.072": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.271,14.093": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.271,14.094": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.377,14.073": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.378,14.073": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.179,14.316": {
+    "locality": "Semmichau - Zemichow",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.264,13.907": {
+    "locality": "Königsbrück",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.270,14.094": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.375,14.069": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.378,14.074": {
+    "locality": "Bernsdorf",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "53.112,8.823": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.111,8.825": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.107,8.862": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.106,8.864": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.107,8.861": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.110,8.828": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.111,8.826": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.107,8.863": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.074,8.795": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "52.758,15.245": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.758,15.247": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.010,14.711": {
+    "locality": "Międzywodzie",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.006,14.702": {
+    "locality": "Międzywodzie",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.012,14.698": {
+    "locality": "Międzywodzie",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.759,15.244": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.040": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.119,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.119,17.038": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.759,15.235": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.759,15.236": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.108": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.125": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.108": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.078": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.068": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.073": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.100": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.108": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.115": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.103": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.067": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.042": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.037": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.019": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.017": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.000": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,16.960": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,16.955": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,16.951": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,16.949": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,16.938": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,16.937": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,16.923": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,16.883": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,16.893": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,16.894": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,16.902": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.141,16.906": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.139,16.940": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,16.967": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,16.983": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,16.990": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.126,17.002": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.046": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.075": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.111": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.136": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.082,17.165": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.068,17.156": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.157": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.077,17.144": {
+    "locality": "Trestno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,17.138": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.114": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.092,17.093": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.037": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.133,17.029": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,17.036": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.133,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.061": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.079": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.083": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.128": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.982": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,16.979": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.188,15.593": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.190,15.603": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.198,15.660": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.197,15.643": {
+    "locality": "Kołobrzeg",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.762,15.231": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.761,15.232": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.759,15.237": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,16.984": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.110": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.751,15.222": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.062": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.085,17.065": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.058": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.064": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.086": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.126": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.273,14.107": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.098,17.093": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.083": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.067": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.060": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.083,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.083,17.035": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.025": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.024": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.012": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.010": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.080,17.008": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.068,17.004": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.061,16.996": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.060,16.990": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.055,16.978": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.044,16.964": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.040,16.961": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.041,16.954": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.029,16.950": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.010,16.952": {
+    "locality": "Domasław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.003,16.942": {
+    "locality": "Domasław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.992,16.935": {
+    "locality": "Chrzanów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.970,16.935": {
+    "locality": "Kobierzyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.952,16.943": {
+    "locality": "Kuklice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.952,16.944": {
+    "locality": "Kuklice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.948,16.942": {
+    "locality": "Kuklice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.931,16.938": {
+    "locality": "Szczepankowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.919,16.919": {
+    "locality": "Budziszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.882,16.929": {
+    "locality": "Tyniec nad Ślęzą",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.883,16.927": {
+    "locality": "Tyniec nad Ślęzą",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.875,16.886": {
+    "locality": "Popowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.875,16.885": {
+    "locality": "Popowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.866,16.845": {
+    "locality": "Glinica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.866,16.844": {
+    "locality": "Glinica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.871,16.793": {
+    "locality": "Świątniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.872,16.792": {
+    "locality": "Świątniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.901,16.745": {
+    "locality": "Sobótka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.903,16.747": {
+    "locality": "Sobótka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.904,16.747": {
+    "locality": "Sobótka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.956,16.782": {
+    "locality": "Mirosławice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.957,16.781": {
+    "locality": "Mirosławice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.972,16.760": {
+    "locality": "Czerńczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.985,16.791": {
+    "locality": "Stradów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.985,16.804": {
+    "locality": "Gniechowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.985,16.809": {
+    "locality": "Gniechowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.984,16.849": {
+    "locality": "Gniechowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.997,16.879": {
+    "locality": "Krzyżowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.997,16.885": {
+    "locality": "Krzyżowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.001,16.906": {
+    "locality": "Racławice Wielkie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.011,16.915": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.019,16.925": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.004,16.956": {
+    "locality": "Domasław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.988,17.009": {
+    "locality": "Żórawina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.998,17.003": {
+    "locality": "Szukalice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.999,17.002": {
+    "locality": "Szukalice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.003,17.002": {
+    "locality": "Szukalice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.014,16.999": {
+    "locality": "Komorowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.022,17.004": {
+    "locality": "Komorowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.037,17.013": {
+    "locality": "Wysoka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.044,17.014": {
+    "locality": "Wysoka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.047,17.015": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.057,17.023": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.063,17.032": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.072,17.032": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.078,17.034": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.083,17.036": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.083,17.050": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.083,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.081": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.092": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.265,14.071": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.272,14.087": {
+    "locality": "Kamenz - Kamjenc",
+    "region": "Saxony",
+    "country": "Germany"
+  },
+  "51.102,17.075": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.072": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.073": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.072": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.128,17.068": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.077": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,17.037": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.140,17.033": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.144,17.040": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,17.042": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.163,17.046": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.164,17.048": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.182,17.056": {
+    "locality": "Krzyżanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.187,17.060": {
+    "locality": "Raków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.204,17.100": {
+    "locality": "Pasikurowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.230,17.114": {
+    "locality": "Siedlec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.247,17.142": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.254,17.157": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.261,17.136": {
+    "locality": "Głuchów Górny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.267,17.130": {
+    "locality": "Głuchów Górny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.273,17.122": {
+    "locality": "Głuchów Górny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.277,17.114": {
+    "locality": "Głuchów Górny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.282,17.108": {
+    "locality": "Głuchów Górny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.286,17.111": {
+    "locality": "Czachowo",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.294,17.129": {
+    "locality": "Czachowo",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.292,17.131": {
+    "locality": "Czachowo",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.289,17.150": {
+    "locality": "Radłów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.287,17.159": {
+    "locality": "Skotniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.285,17.161": {
+    "locality": "Piersno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.285,17.159": {
+    "locality": "Skotniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.284,17.155": {
+    "locality": "Skotniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.264,17.164": {
+    "locality": "Boleścin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.253,17.159": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.250,17.162": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.246,17.168": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.232,17.174": {
+    "locality": "Łozina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.228,17.171": {
+    "locality": "Łozina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.225,17.170": {
+    "locality": "Łozina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.204,17.154": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.202,17.154": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.188,17.151": {
+    "locality": "Domaszczyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.187,17.150": {
+    "locality": "Domaszczyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.175,17.136": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.166,17.129": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.157,17.121": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,17.115": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.143,17.099": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.141,17.092": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.077": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.124,17.036": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.033": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.038": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.074": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.133,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,17.020": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,16.998": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,16.997": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.156,16.978": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.170,16.961": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.174,16.956": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.175,16.948": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.184,16.935": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.196,16.942": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.205,16.965": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.202,16.973": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.201,16.975": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.178,17.025": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.166,17.048": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.164,17.050": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.155,17.078": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.143,17.098": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.124,17.132": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.130": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,17.085": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.068": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.062": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.107": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.757,15.247": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.743,15.226": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.782,15.222": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.758,15.236": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "53.109,8.834": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.073,8.801": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.068,8.805": {
+    "locality": "Stadtgebiet Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.063,8.812": {
+    "locality": "Stadtgebiet Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "51.085,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.779,15.234": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.085,17.073": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.045": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.048": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.034": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.745,15.234": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.759,15.256": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.119": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.109": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.107": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.102": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.059": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.027": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.093,17.020": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,17.016": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.066,16.988": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.064,16.977": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.058,16.972": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.041,16.953": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.023,16.949": {
+    "locality": "Domasław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.021,16.939": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.018,16.918": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.017,16.917": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.015,16.917": {
+    "locality": "Tyniec Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,16.877": {
+    "locality": "Krzyżowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.984,16.850": {
+    "locality": "Gniechowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.976,16.852": {
+    "locality": "Gniechowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.958,16.856": {
+    "locality": "Pustków Żurawski",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.951,16.857": {
+    "locality": "Solna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.921,16.853": {
+    "locality": "Damianowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.924,16.902": {
+    "locality": "Rolantowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.925,16.918": {
+    "locality": "Budziszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.925,16.919": {
+    "locality": "Budziszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.937,16.938": {
+    "locality": "Szczepankowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.969,16.978": {
+    "locality": "Wilczków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.969,16.990": {
+    "locality": "Wilczków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.978,16.994": {
+    "locality": "Galowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.981,17.003": {
+    "locality": "Galowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.078": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.062": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.133,17.036": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.038": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,17.059": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,17.058": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,17.075": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.126,17.063": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.128,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.122,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.124": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.089": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.117": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,17.029": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.044": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.047": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.079": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.092,17.095": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.094,17.111": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,17.126": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.061": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.079": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.140,17.082": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.150,17.074": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.159,17.044": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.153,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.122,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.008": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.001": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,16.993": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,16.986": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.094,16.980": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.091,17.017": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.021": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.034": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.122,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.061": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.083": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.082,17.050": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.063,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.043,17.062": {
+    "locality": "Żerniki Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.043,17.063": {
+    "locality": "Żerniki Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.038,17.073": {
+    "locality": "Iwiny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.034,17.105": {
+    "locality": "Zacharzyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.035,17.110": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.040,17.131": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.041,17.141": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.041,17.142": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.047,17.156": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.143": {
+    "locality": "Trestno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.126": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.073,17.111": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.080": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.135": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.136": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.136": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.123,17.155": {
+    "locality": "Wilczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.121,17.156": {
+    "locality": "Wilczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.120,17.178": {
+    "locality": "Kiełczówek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.119,17.188": {
+    "locality": "Kiełczówek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.185": {
+    "locality": "Kiełczówek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.170": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.165": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.167": {
+    "locality": "Kamieniec Wrocławski",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.167": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.067,17.159": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.046,17.155": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.040,17.141": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.039,17.131": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.039,17.130": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.036,17.124": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.037,17.118": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.034,17.104": {
+    "locality": "Zacharzyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.039,17.071": {
+    "locality": "Iwiny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.043,17.061": {
+    "locality": "Żerniki Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.057,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.077,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.113": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.081": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.079": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.048": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,17.042": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.909,15.332": {
+    "locality": "Świeradów-Zdrój",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.041": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.064": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.470,16.918": {
+    "locality": "Żmigród",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.465,16.942": {
+    "locality": "Kanclerzowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.440,16.984": {
+    "locality": "Przedkowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.462,17.010": {
+    "locality": "Sieczków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.461,17.051": {
+    "locality": "Książęca Wieś",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.487,17.164": {
+    "locality": "Sułów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.488,17.188": {
+    "locality": "Pracze",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.477,17.217": {
+    "locality": "Pracze",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.528,17.269": {
+    "locality": "Milicz",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.495,17.167": {
+    "locality": "Sułów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.512,17.031": {
+    "locality": "Niezgoda",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.469,17.010": {
+    "locality": "Osiek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.076": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.067": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.061": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.103,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.075": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.068": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.067": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.138,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.141,17.032": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.156,17.035": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.149,17.113": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.213,21.008": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.219,21.026": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.218,21.033": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.218,21.031": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.216,21.015": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.213,21.007": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.213,20.996": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.216,20.995": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "51.179,17.017": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.133": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.129": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.744,15.247": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "36.339,28.201": {
+    "locality": "Faliraki",
+    "region": "Aegean",
+    "country": "Greece"
+  },
+  "36.328,28.204": {
+    "locality": "Faliraki",
+    "region": "Aegean",
+    "country": "Greece"
+  },
+  "36.322,28.209": {
+    "locality": "Municipality of Rhodes",
+    "region": "Aegean",
+    "country": "Greece"
+  },
+  "51.109,17.077": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "40.770,-73.976": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "40.765,-73.979": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "51.106,17.094": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.090,15.048": {
+    "locality": "Niechorze",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.076,14.992": {
+    "locality": "Trzęsacz",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "51.078,17.162": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.047,17.060": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.237,21.045": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.259,20.995": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.290,20.977": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.267,21.002": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.261,21.006": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.260,21.008": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.261,21.016": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "51.073,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.126,17.065": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.400,16.950": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.404,16.955": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.407,16.961": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.404,16.975": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.743,15.225": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.744,15.216": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "41.914,12.487": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "52.743,15.232": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.128,17.080": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.135": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.124,17.153": {
+    "locality": "Wilczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.069,17.040": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.043": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.069,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.068,17.159": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.164": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "34.141,-118.876": {
+    "locality": "Ventura County",
+    "region": "California",
+    "country": "United States"
+  },
+  "45.848,9.390": {
+    "locality": "Malgrate",
+    "region": "Lombardy",
+    "country": "Italy"
+  },
+  "46.231,10.223": {
+    "locality": "Lovero",
+    "region": "Lombardy",
+    "country": "Italy"
+  },
+  "43.851,5.993": {
+    "locality": "Valensole",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  "39.457,-0.356": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.458,-0.355": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.460,-0.332": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.462,-0.331": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.467,-0.325": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.475,-0.328": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.476,-0.330": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.478,-0.338": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.480,-0.345": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.480,-0.346": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.475,-0.352": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.482,-0.352": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.483,-0.352": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.483,-0.351": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.484,-0.364": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.483,-0.364": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.482,-0.365": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.474,-0.365": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.471,-0.358": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.472,-0.357": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.475,-0.351": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.474,-0.348": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.474,-0.347": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.478,-0.340": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.473,-0.328": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.464,-0.329": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.463,-0.329": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.461,-0.335": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.464,-0.359": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.469,-0.361": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.470,-0.361": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.472,-0.363": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.477,-0.369": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.480,-0.383": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.481,-0.382": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.478,-0.373": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.473,-0.370": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.470,-0.378": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.471,-0.385": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.472,-0.386": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.477,-0.390": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.478,-0.406": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.473,-0.405": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.469,-0.405": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.460,-0.404": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.464,-0.397": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.467,-0.387": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.468,-0.378": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.472,-0.369": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.472,-0.368": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.470,-0.364": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.469,-0.363": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.466,-0.362": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.463,-0.361": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.459,-0.356": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "38.844,0.111": {
+    "locality": "Dénia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "38.848,0.102": {
+    "locality": "Dénia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "54.441,18.575": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.440,18.577": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.430,18.590": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.427,18.595": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.425,18.599": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.607": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.412,18.628": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.413,18.624": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.414,18.623": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.422,18.605": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "52.779,15.230": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.783,15.228": {
+    "locality": "Kłodawa",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.135": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,17.136": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.032": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.025": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.026": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.097": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.064,19.988": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.062,19.982": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.050,19.958": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.046,19.947": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.059,19.923": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.059,19.920": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.057,19.907": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.062,19.903": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.063,19.903": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.050,19.935": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.050,19.936": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.049,19.935": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.046,19.945": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.047,19.947": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.053,19.961": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.064,19.985": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.046,19.938": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.047,19.938": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.051,19.935": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.053,19.934": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.055,19.928": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.122,17.146": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.165": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.166": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.195": {
+    "locality": "Kiełczówek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.120,17.177": {
+    "locality": "Wilczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.071": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.072": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.134": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.102": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.128,17.082": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.509,-0.083": {
+    "locality": "City of London",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.507,-0.122": {
+    "locality": "London",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.496,-0.110": {
+    "locality": "London",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.489,-0.100": {
+    "locality": "London",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.112,17.091": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,17.072": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.084": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.153": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.093,17.078": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,17.164": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.040,17.140": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.040,17.070": {
+    "locality": "Iwiny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.046,17.060": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.054,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.061,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.095": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.139,17.083": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.142,17.093": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.144,17.101": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.145,17.108": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,17.116": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,17.117": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.145,17.150": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.144,17.155": {
+    "locality": "Wilczyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.141,17.198": {
+    "locality": "Piecowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.135,17.197": {
+    "locality": "Śliwice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,17.197": {
+    "locality": "Śliwice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.124,17.196": {
+    "locality": "Śliwice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.086": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.084,17.061": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.043,17.064": {
+    "locality": "Żerniki Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.037,17.074": {
+    "locality": "Iwiny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.046,17.156": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.074,17.159": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,17.081": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,16.933": {
+    "locality": "Chrzanów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,16.928": {
+    "locality": "Chrzanów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.953,16.857": {
+    "locality": "Solna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.928,16.833": {
+    "locality": "Ręków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.980,16.775": {
+    "locality": "Stradów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.982,16.745": {
+    "locality": "Kamionna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.983,16.742": {
+    "locality": "Kamionna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.986,16.744": {
+    "locality": "Piława",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.034,16.770": {
+    "locality": "Kąty Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.046,16.776": {
+    "locality": "Wszemiłowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.047,16.776": {
+    "locality": "Wszemiłowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.061,16.784": {
+    "locality": "Stoszyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,16.785": {
+    "locality": "Stoszyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,16.801": {
+    "locality": "Romnów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.082,16.807": {
+    "locality": "Romnów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.827": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.830": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.831": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.834": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.841": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,16.847": {
+    "locality": "Kębłowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,16.855": {
+    "locality": "Kębłowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.877": {
+    "locality": "Krzeptów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.093,16.895": {
+    "locality": "Krzeptów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.915": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.918": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,16.942": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,16.949": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.094,16.979": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,16.987": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,16.996": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.002": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.014": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.026": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.105,17.032": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.100,17.036": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,17.043": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,17.066": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.133,17.027": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,16.999": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,16.982": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,16.966": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,16.970": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,16.978": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,16.979": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.119,16.971": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,16.924": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.092,16.923": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,16.911": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.875": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,16.865": {
+    "locality": "Smolec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,16.850": {
+    "locality": "Kębłowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,16.833": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.093,16.829": {
+    "locality": "Skałka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,16.839": {
+    "locality": "Samotwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,16.845": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.120,16.849": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.121,16.864": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.123,16.881": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.130,16.984": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,17.055": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.047": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.091,17.044": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.093,17.043": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.132": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.125,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.023": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.817,15.433": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.815,15.383": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.101": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,17.121": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.109,17.126": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,17.132": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.147,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.155,17.077": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.214,17.110": {
+    "locality": "Pasikurowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.217,17.129": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.216,17.133": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.209,17.143": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.207,17.156": {
+    "locality": "Bukowina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.223,17.170": {
+    "locality": "Łozina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.227,17.171": {
+    "locality": "Łozina",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.246,17.191": {
+    "locality": "Bierzyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.252,17.195": {
+    "locality": "Zaprężyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.253,17.202": {
+    "locality": "Zaprężyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.261,17.214": {
+    "locality": "Węgrów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.265,17.220": {
+    "locality": "Węgrów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.266,17.220": {
+    "locality": "Węgrów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.277,17.224": {
+    "locality": "Rzędziszowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.282,17.209": {
+    "locality": "Miłonowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.283,17.210": {
+    "locality": "Miłonowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.286,17.209": {
+    "locality": "Miłonowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.298,17.206": {
+    "locality": "Cielętniki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.303,17.189": {
+    "locality": "Tarnowiec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.290,17.176": {
+    "locality": "Tarnowiec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.265,17.164": {
+    "locality": "Boleścin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.261,17.171": {
+    "locality": "Boleścin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.264,17.192": {
+    "locality": "Krakowiany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.264,17.218": {
+    "locality": "Węgrów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.253,17.206": {
+    "locality": "Zaprężyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.252,17.193": {
+    "locality": "Zaprężyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.261,17.192": {
+    "locality": "Krakowiany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.263,17.180": {
+    "locality": "Krakowiany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.262,17.170": {
+    "locality": "Boleścin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.252,17.149": {
+    "locality": "Skarszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.234,17.121": {
+    "locality": "Siedlec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.210,17.104": {
+    "locality": "Pasikurowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.201,17.091": {
+    "locality": "Cienin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.195,17.067": {
+    "locality": "Raków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.189,17.062": {
+    "locality": "Raków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.185,17.059": {
+    "locality": "Krzyżanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.097": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.073,17.112": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.128": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.134": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.147": {
+    "locality": "Trestno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.043,17.160": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.038,17.171": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.038,17.178": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.036,17.187": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.027,17.235": {
+    "locality": "Kotowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.035,17.265": {
+    "locality": "Ratowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.046,17.245": {
+    "locality": "Czernica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.057,17.188": {
+    "locality": "Gajków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.061,17.179": {
+    "locality": "Gajków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.174": {
+    "locality": "Kamieniec Wrocławski",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,17.157": {
+    "locality": "Łany",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,17.160": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.105": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.102": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.114,16.969": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.024": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.090": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.106": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.120,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.129,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.065": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.044": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,17.057": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.150": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.080,17.164": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.104": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.483,16.919": {
+    "locality": "Żmigród",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.467,17.011": {
+    "locality": "Sieczków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.438,16.983": {
+    "locality": "Przedkowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.390,16.966": {
+    "locality": "Pietrowice Małe",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.371,16.972": {
+    "locality": "Prusice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.351,17.030": {
+    "locality": "Pawłów Trzebnicki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.334,17.058": {
+    "locality": "Małuszyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.306,17.061": {
+    "locality": "Trzebnica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.301,17.072": {
+    "locality": "Trzebnica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.297,17.077": {
+    "locality": "Trzebnica",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.287,17.079": {
+    "locality": "Raszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.276,17.097": {
+    "locality": "Taczów Wielki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.274,17.100": {
+    "locality": "Taczów Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.270,17.105": {
+    "locality": "Taczów Mały",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.242,17.081": {
+    "locality": "Pierwoszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.207,17.052": {
+    "locality": "Kryniczno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.199,17.049": {
+    "locality": "Kryniczno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.175,17.023": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.168,17.025": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.113,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.098,17.033": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.191,17.184": {
+    "locality": "Szczodre",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.169,17.183": {
+    "locality": "Długołęka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.164,17.181": {
+    "locality": "Mirków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.163,17.181": {
+    "locality": "Mirków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.116,17.195": {
+    "locality": "Kiełczówek",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,17.198": {
+    "locality": "Śliwice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.145,17.216": {
+    "locality": "Piecowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.163,17.253": {
+    "locality": "Bielawa",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.168,17.276": {
+    "locality": "Raków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.167,17.276": {
+    "locality": "Raków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.149,17.283": {
+    "locality": "Oleśniczka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.148,17.280": {
+    "locality": "Oleśniczka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,17.284": {
+    "locality": "Kątna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.283": {
+    "locality": "Kątna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.280": {
+    "locality": "Kątna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.124,17.266": {
+    "locality": "Brzezia Łąka",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.122,17.233": {
+    "locality": "Pietrzykowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.138,16.945": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.127,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.000": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.232,21.021": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "51.108,17.080": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.109": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.155,16.977": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.161,16.951": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.169,16.945": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.174,16.935": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.196,16.979": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.189,16.979": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.180,16.987": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.169,16.997": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.168,16.998": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.157,17.011": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.141,17.026": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "61.918,7.175": {
+    "locality": "Grov",
+    "region": "Vestland",
+    "country": "Norway"
+  },
+  "35.196,26.251": {
+    "locality": "Itanos Municipal Unit",
+    "region": "Region of Crete",
+    "country": "Greece"
+  },
+  "51.109,17.051": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.753,15.244": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "48.313,11.699": {
+    "locality": "Mintraching-Grüneck",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.312,11.699": {
+    "locality": "Mintraching-Grüneck",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.311,11.699": {
+    "locality": "Mintraching-Grüneck",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.279,11.693": {
+    "locality": "Dietersheim",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.313,11.701": {
+    "locality": "Hallbergmoos",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.349,11.712": {
+    "locality": "Freising",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.358,11.718": {
+    "locality": "Freising",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.324,11.736": {
+    "locality": "Hallbergmoos",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.337,11.731": {
+    "locality": "Hallbergmoos",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.322,11.740": {
+    "locality": "Goldach",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.510,12.076": {
+    "locality": "Viecht",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.504,12.057": {
+    "locality": "Viecht",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "48.502,12.049": {
+    "locality": "Kronwinkl",
+    "region": "Bavaria",
+    "country": "Germany"
+  },
+  "52.403,16.911": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.396,16.949": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.381,16.943": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.384,16.922": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.387,16.903": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.399,16.876": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.395,16.863": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.386,16.838": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.022,17.110": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.022,17.109": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,17.069": {
+    "locality": "Turów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.982,17.093": {
+    "locality": "Mnichowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.988,17.122": {
+    "locality": "Zagródki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.986,17.134": {
+    "locality": "Zagródki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,17.148": {
+    "locality": "Sulęcin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.993,17.151": {
+    "locality": "Sulęcin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.000,17.159": {
+    "locality": "Zębice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.005,17.153": {
+    "locality": "Zębice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.999,17.141": {
+    "locality": "Zębice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.006,17.126": {
+    "locality": "Sulimów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.027,17.106": {
+    "locality": "Święta Katarzyna",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.117,17.134": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.118,17.196": {
+    "locality": "Śliwice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.209": {
+    "locality": "Dobrzykowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.097,17.242": {
+    "locality": "Nadolice Wielkie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.239": {
+    "locality": "Nadolice Wielkie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.106,17.230": {
+    "locality": "Krzyków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.035,14.418": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.026,14.416": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.018,14.413": {
+    "locality": "St. Ulrich bei Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.047,14.434": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.040,14.410": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.042,14.421": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.026,14.415": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.040,14.408": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.039,14.392": {
+    "locality": "Steyr",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.043,14.377": {
+    "locality": "Garsten",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "51.116,17.052": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "47.962,14.258": {
+    "locality": "Grünburg",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.307,14.286": {
+    "locality": "Linz",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "48.309,14.284": {
+    "locality": "Linz",
+    "region": "Upper Austria",
+    "country": "Austria"
+  },
+  "51.142,17.123": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.148,17.115": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.150,17.114": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.160,17.121": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.190,17.136": {
+    "locality": "Pruszowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.186,17.162": {
+    "locality": "Domaszczyn",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.157,17.174": {
+    "locality": "Mirków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.509,16.779": {
+    "locality": "Janowiec",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "47.954,14.784": {
+    "locality": "Waidhofen an der Ybbs",
+    "region": "Lower Austria",
+    "country": "Austria"
+  },
+  "51.503,-0.137": {
+    "locality": "City of Westminster",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.504,-0.135": {
+    "locality": "City of Westminster",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "51.505,-0.132": {
+    "locality": "City of Westminster",
+    "region": "England",
+    "country": "United Kingdom"
+  },
+  "40.779,-73.966": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "40.798,-73.952": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "40.768,-73.979": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "40.767,-73.975": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "40.773,-73.969": {
+    "locality": "New York",
+    "region": "New York",
+    "country": "United States"
+  },
+  "54.482,18.565": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "-11.641,166.979": {
+    "locality": "Puma",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.662,166.969": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.667,166.944": {
+    "locality": "Usili",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.679,166.938": {
+    "locality": "Usili",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "51.097,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "41.895,12.483": {
+    "locality": "Rome",
+    "region": "Lazio",
+    "country": "Italy"
+  },
+  "51.087,17.070": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.069,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.122": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.172": {
+    "locality": "Kamieniec Wrocławski",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.065,17.226": {
+    "locality": "Jeszkowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.066,17.230": {
+    "locality": "Jeszkowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.062,17.263": {
+    "locality": "Wojnowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.021,17.305": {
+    "locality": "Jelcz-Laskowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.001,17.350": {
+    "locality": "Stanków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.991,17.392": {
+    "locality": "Nowy Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.978,17.397": {
+    "locality": "Janików",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.937,17.365": {
+    "locality": "Bystrzyca",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.949,17.305": {
+    "locality": "Oława",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.955,17.296": {
+    "locality": "Oława",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.973,17.295": {
+    "locality": "Oława",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.981,17.289": {
+    "locality": "Oława",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.026,17.233": {
+    "locality": "Kotowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.034,17.211": {
+    "locality": "Kotowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.033,17.199": {
+    "locality": "Kotowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.036,17.188": {
+    "locality": "Kotowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.044,17.175": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.039,17.169": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.050,17.156": {
+    "locality": "Siechnice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.053,17.151": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.067,17.154": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.076,17.133": {
+    "locality": "Mokry Dwór",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.422,18.603": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.424,18.599": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.425,18.595": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.427,18.594": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.437,18.580": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.454,18.562": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.463,18.554": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.467,18.559": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.479,18.553": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.485,18.545": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.487,18.544": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.489,18.543": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.493,18.540": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.497,18.538": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.498,18.537": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.505,18.536": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.508,18.554": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.523,18.543": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.523,18.531": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.529,18.514": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.549,18.501": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.552,18.508": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.566,18.505": {
+    "locality": "Pogórze",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.583,18.495": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.584,18.494": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.587,18.495": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.592,18.501": {
+    "locality": "Pierwoszyno",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.595,18.514": {
+    "locality": "Pierwoszyno",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.599,18.520": {
+    "locality": "Mechelinki",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.609,18.512": {
+    "locality": "Mechelinki",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.626,18.497": {
+    "locality": "Rewa",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.632,18.497": {
+    "locality": "Rewa",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.632,18.505": {
+    "locality": "Rewa",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.627,18.497": {
+    "locality": "Rewa",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.608,18.497": {
+    "locality": "Mosty",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.596,18.515": {
+    "locality": "Mechelinki",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.590,18.495": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.588,18.494": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.583,18.494": {
+    "locality": "Kosakowo",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.551,18.506": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.550,18.506": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.550,18.505": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.538,18.502": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.527,18.519": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.515,18.549": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.508,18.552": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.508,18.548": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.492,18.541": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.486,18.545": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.480,18.553": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.476,18.561": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.459,18.555": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.457,18.556": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.445,18.571": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.433,18.586": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.475,18.561": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.464,18.561": {
+    "locality": "Gdynia",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.464,18.560": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.463,18.561": {
+    "locality": "Sopot",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.425,18.598": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.420,18.608": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.415,18.618": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.411,18.630": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.408,18.639": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "54.411,18.629": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.041": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.411,18.604": {
+    "locality": "Gdańsk",
+    "region": "Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.129": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.115,17.115": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.033": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "-11.641,166.946": {
+    "locality": "Puma",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.649,166.949": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.646,166.948": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.645,166.937": {
+    "locality": null,
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.643,166.940": {
+    "locality": null,
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.649,166.947": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.642,166.952": {
+    "locality": "Muie Village",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.660,166.985": {
+    "locality": "Kulavanu",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "-11.636,166.952": {
+    "locality": "Puma",
+    "region": "Temotu",
+    "country": "Solomon Islands"
+  },
+  "50.904,15.334": {
+    "locality": "Świeradów-Zdrój",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.897,15.321": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.892,15.310": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.118": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.170,16.997": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.187,17.031": {
+    "locality": "Psary",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.208,17.053": {
+    "locality": "Malin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.225,17.067": {
+    "locality": "Malin",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.255,17.100": {
+    "locality": "Pierwoszów",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.277,17.098": {
+    "locality": "Taczów Wielki",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.203,17.099": {
+    "locality": "Pasikurowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.203,17.098": {
+    "locality": "Pasikurowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.156,17.028": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.157,17.012": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.157,17.010": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.156,17.007": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.153,17.005": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.152,17.004": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.136,17.002": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.135,17.004": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.022": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.012": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.077,16.982": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.065,16.987": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.065,16.988": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.045,16.964": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.047,16.964": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.054,16.970": {
+    "locality": "Bielany Wrocławskie",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.055,16.981": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.066,16.986": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.038": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.087,17.011": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.088,17.006": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,17.005": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,17.001": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.091,16.991": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.095,16.980": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,16.978": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.096,16.977": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.112,16.969": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.818,15.433": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.836,15.415": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.869,15.366": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.856,15.358": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.854,15.359": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.853,15.358": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.846,15.366": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.833,15.370": {
+    "locality": "gmina Mirsk",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.814,15.384": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.813,15.385": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.804,15.402": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.808,15.415": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.809,15.422": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.811,15.425": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.819,15.502": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.812,15.497": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.795,15.501": {
+    "locality": "Szklarska Poręba",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.101,17.117": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.090,17.064": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.145,17.095": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,17.150": {
+    "locality": "Trestno",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.045,17.099": {
+    "locality": "Zacharzyce",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.064,17.083": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.080": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.075,17.076": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.861,9.119": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.868,9.140": {
+    "locality": "Möglingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.856,9.155": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.848,9.147": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.840,9.139": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.838,9.134": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.087,17.086": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.388,16.849": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.372,16.918": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.383,16.929": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.411,16.938": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.416,16.918": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.414,16.915": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "52.406,16.910": {
+    "locality": "Poznan",
+    "region": "Greater Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.111,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.044,17.061": {
+    "locality": "Iwiny",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "41.389,2.184": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.384,2.184": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.381,2.182": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.380,2.181": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.376,2.178": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.375,2.176": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.375,2.175": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.375,2.161": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.377,2.153": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.380,2.155": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.384,2.161": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.406,2.193": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.411,2.199": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.414,2.203": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.414,2.204": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.417,2.206": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.418,2.210": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.417,2.212": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.413,2.217": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.411,2.218": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.410,2.213": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.407,2.203": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.408,2.205": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.408,2.206": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.409,2.209": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.410,2.214": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.410,2.215": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.411,2.219": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.410,2.218": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.408,2.217": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.407,2.218": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.404,2.215": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.401,2.211": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.399,2.209": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.395,2.207": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.392,2.204": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.391,2.202": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.391,2.199": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.389,2.198": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.388,2.196": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.390,2.193": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.393,2.189": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.391,2.187": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "51.085,17.076": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.085,17.088": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.092,17.159": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.089,17.162": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.070,17.175": {
+    "locality": "Kamieniec Wrocławski",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.081,17.163": {
+    "locality": "Blizanowice",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.085,17.154": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.744,15.217": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.745,15.233": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "51.077,17.058": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.844,9.108": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.837,9.103": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.848,9.114": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.834,9.105": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.833,9.097": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.831,9.098": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.835,9.102": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.837,9.102": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.083,17.054": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.761,15.235": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.733,15.244": {
+    "locality": "Gorzow Wielkopolski",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "48.829,9.381": {
+    "locality": "Großheppach",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.818,9.378": {
+    "locality": "Großheppach",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.834,9.371": {
+    "locality": "Kleinheppach",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.835,9.368": {
+    "locality": "Korb",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.813,9.408": {
+    "locality": "Grunbach",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "50.064,19.989": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.050,19.980": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.047,19.952": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.061,19.916": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.056,19.936": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "48.867,9.127": {
+    "locality": "Möglingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.868,9.148": {
+    "locality": "Möglingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.077,17.034": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.135,17.006": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.137,16.994": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.841,9.100": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "53.462,14.508": {
+    "locality": "Szczecin",
+    "region": "West Pomeranian Voivodeship",
+    "country": "Poland"
+  },
+  "48.861,9.094": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.829,9.095": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.834,9.110": {
+    "locality": "Lotterberg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "48.820,9.106": {
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "51.093,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "45.417,12.369": {
+    "locality": "Venice",
+    "region": "Veneto",
+    "country": "Italy"
+  },
+  "45.433,12.340": {
+    "locality": "Venice",
+    "region": "Veneto",
+    "country": "Italy"
+  },
+  "51.061,17.056": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.843,9.122": {
+    "locality": "Korntal-Münchingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "52.271,20.993": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.264,21.022": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.256,21.029": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.243,21.038": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.217,21.038": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "48.856,2.288": {
+    "locality": "Paris",
+    "region": "Metropolitan France",
+    "country": "France"
+  },
+  "47.782,9.622": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.781,9.635": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.783,9.639": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.792,9.657": {
+    "locality": "Schlier",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.799,9.685": {
+    "locality": "Unterankenreute",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.804,9.677": {
+    "locality": "Baienfurt",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.805,9.673": {
+    "locality": "Schlier",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.793,9.624": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.791,9.618": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.788,9.613": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.781,9.614": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.779,9.616": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.779,9.617": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.782,9.613": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
   }
 }
