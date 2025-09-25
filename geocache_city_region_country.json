@@ -7578,5 +7578,15 @@
     "locality": "Ravensburg",
     "region": "Baden-Württemberg",
     "country": "Germany"
+  },
+  "51.123,17.030": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.131,17.039": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
   }
 }
