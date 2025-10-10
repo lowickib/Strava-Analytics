@@ -7588,5 +7588,25 @@
     "locality": "Wrocław",
     "region": "Lower Silesian Voivodeship",
     "country": "Poland"
+  },
+  "51.109,17.120": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "50.928,16.836": {
+    "locality": "Ręków",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.747,15.248": {
+    "locality": "Gorzow",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.740,15.244": {
+    "locality": "Gorzow",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
   }
 }
