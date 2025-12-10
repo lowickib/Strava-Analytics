@@ -7608,5 +7608,495 @@
     "locality": "Gorzow",
     "region": "Lubusz Voivodeship",
     "country": "Poland"
+  },
+  "50.069,19.987": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.055,19.936": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.060,19.923": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.061,19.911": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.062,19.902": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.057,19.909": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.044,19.942": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.045,19.945": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.052,19.977": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "47.336,8.519": {
+    "locality": "Zurich",
+    "region": "Zurich",
+    "country": "Switzerland"
+  },
+  "35.914,14.507": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.914,14.506": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.916,14.504": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.915,14.495": {
+    "locality": "Saint Julian's",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.916,14.494": {
+    "locality": "Saint Julian's",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.919,14.493": {
+    "locality": "Saint Julian's",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.919,14.490": {
+    "locality": "Saint Julian's",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.919,14.491": {
+    "locality": "Saint Julian's",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.916,14.498": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.917,14.499": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.918,14.499": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.911,14.509": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.911,14.510": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "51.112,17.116": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.085": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.099,17.088": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.737,15.173": {
+    "locality": "Gorzow",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "52.719,15.182": {
+    "locality": "Gorzow",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "53.110,8.829": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "53.109,8.833": {
+    "locality": "Bremen",
+    "region": "Bremen",
+    "country": "Germany"
+  },
+  "51.105,17.069": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.132,17.040": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "47.783,9.620": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "47.794,9.630": {
+    "locality": "Ravensburg",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "52.260,21.007": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.243,21.037": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "51.134,17.016": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.071,17.046": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "48.868,9.139": {
+    "locality": "Möglingen",
+    "region": "Baden-Württemberg",
+    "country": "Germany"
+  },
+  "50.063,19.984": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "51.086,17.080": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "41.375,2.173": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.378,2.153": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.379,2.154": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.419,2.208": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.419,2.209": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.414,2.215": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.413,2.216": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.411,2.216": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.408,2.204": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.411,2.217": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.405,2.216": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "41.389,2.194": {
+    "locality": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain"
+  },
+  "51.112,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "47.985,14.651": {
+    "locality": "Sankt Michael am Bruckbach",
+    "region": "Lower Austria",
+    "country": "Austria"
+  },
+  "51.123,17.096": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.104,17.089": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.091,17.074": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "54.423,18.603": {
+    "locality": "Gdańsk",
+    "region": null,
+    "country": "Poland"
+  },
+  "54.409,18.637": {
+    "locality": "Gdańsk",
+    "region": null,
+    "country": "Poland"
+  },
+  "54.409,18.636": {
+    "locality": "Gdańsk",
+    "region": null,
+    "country": "Poland"
+  },
+  "50.049,19.952": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.048,19.950": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "39.458,-0.354": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.461,-0.353": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "39.460,-0.333": {
+    "locality": "Valencia",
+    "region": "Valencian Community",
+    "country": "Spain"
+  },
+  "36.321,28.200": {
+    "locality": "Municipality of Rhodes",
+    "region": "Aegean",
+    "country": "Greece"
+  },
+  "52.219,21.027": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.216,21.014": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.731,15.227": {
+    "locality": "Gorzow",
+    "region": "Lubusz Voivodeship",
+    "country": "Poland"
+  },
+  "50.059,19.922": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "50.060,19.901": {
+    "locality": "Krakow",
+    "region": "Lesser Poland Voivodeship",
+    "country": "Poland"
+  },
+  "35.901,14.509": {
+    "locality": "Valletta",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.917,14.500": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "35.915,14.496": {
+    "locality": "Sliema",
+    "region": null,
+    "country": "Malta"
+  },
+  "52.250,20.987": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.236,20.998": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.219,21.005": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.211,21.006": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.233,20.998": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.245,20.992": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.248,20.989": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.218,21.020": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.213,21.003": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.209,20.988": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.205,20.993": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.206,20.987": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.210,20.989": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.209,20.998": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.232,21.011": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "51.102,17.117": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "52.233,21.015": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "52.228,21.032": {
+    "locality": "Warsaw",
+    "region": "Masovian Voivodeship",
+    "country": "Poland"
+  },
+  "38.788,-123.411": {
+    "locality": "Mendocino County",
+    "region": "California",
+    "country": "United States"
+  },
+  "51.084,17.034": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.107,17.047": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.110,17.053": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
+  },
+  "51.082,17.049": {
+    "locality": "Wrocław",
+    "region": "Lower Silesian Voivodeship",
+    "country": "Poland"
   }
 }
