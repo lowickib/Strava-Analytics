@@ -1,3 +1,14 @@
+# 🚀 Strava Analytics - Python + Power BI Project
+
+![Dashboard demo](docs/gifs/Demo_Gif.gif)
+
+📎 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTdiMWRkOGYtNGE0Ny00YmI5LWJiYzAtYWYxZGQ2MmFmMmM0IiwidCI6IjY0YmU5OWY5LTI2N2MtNDIxMS1iMDlhLTQ0YmZlNjYyMzY0MCJ9&pageName=b48096df7ec0b97d2d07)
+
+# README – under construction 🚧 
+
+This README is under construction. More details coming soon. ✨
+
+
 ## 📊 Power BI Reporting & Analytics
 
 This project includes an end-to-end **Power BI report** built on top of the **Gold layer** in PostgreSQL, turning raw Strava exports into an interactive **training analytics app**. The model follows a clean **star schema** with a rich **DAX layer**, **helper tables** and **user-defined functions (UDFs)** that power **dynamic slicers**, **metric toggles**, **time-intelligence** and storytelling features such as **yearly rewinds**, **training load** and **segment / Local Legend** analysis. Custom **UX patterns** (collapsible navigation, metric/period toggles, pop-ups, Deneb visuals) make the report feel closer to a modern **web dashboard** than a standard Power BI file.
