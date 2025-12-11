@@ -1,4 +1,4 @@
-# 🚀 Strava Analytics - Python + Power BI Project
+# 🏃‍♂️ Strava Analytics - Python + Power BI Project
 
 ![Dashboard demo](docs/gifs/Demo_Gif.gif)
 
