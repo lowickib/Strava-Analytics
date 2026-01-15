@@ -4,6 +4,18 @@
 
 📎 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTdiMWRkOGYtNGE0Ny00YmI5LWJiYzAtYWYxZGQ2MmFmMmM0IiwidCI6IjY0YmU5OWY5LTI2N2MtNDIxMS1iMDlhLTQ0YmZlNjYyMzY0MCJ9&pageName=b48096df7ec0b97d2d07)
 
+## ⚡ Project at a Glance
+
+* **End-to-end analytics project**: **Strava API → PostgreSQL (Bronze/Silver/Gold) → star schema → Power BI**.
+* Reliable ingestion with **incremental sync**, **API rate-limit handling**, and **retry/backoff** strategy.
+* **Medallion architecture** for clean separation of concerns: **Bronze** (raw), **Silver** (cleaned/normalized), **Gold** (analytics-ready).
+* BI-friendly modeling with **star schema**, clearly defined **grain** for fact tables, and consistent relationships to dimensions.
+* **Power BI report** focused on training insights (distance, time, elevation, pace), enhanced with **drillthrough** and UX patterns (navigation, KPI toggles).
+* Advanced **DAX** measures: modular design, **dynamic titles**, filter-aware KPIs, and time-based comparisons.
+* Data quality fixes such as **reverse geocoding** to enrich/standardize locations when source data is incomplete or inconsistent.
+
+
+
 ## 📚 Table of Contents
 
 - [🧠 Project Summary](#-project-summary)
@@ -32,6 +44,62 @@ The project implements a full **Medallion (Bronze/Silver/Gold) architecture** in
 On top of the Gold layer, the **Power BI dashboard** turns the dataset into an interactive training analytics experience: activity exploration, yearly summaries, gear tracking, training intensity analysis, segment/Local Legend views, and “year in review” storytelling—supported by a structured semantic model, reusable DAX patterns, and custom UX elements to make the report feel more like an app than a static BI file.
 
 
+---
+
+## 🏗️ Architecture Diagrams
+
+### Pipeline
+
+**Flow:** Strava API → Bronze → Silver → Gold → Power BI
+
+* **Strava API**: activities + related entities pulled via authenticated requests
+* **Bronze**: raw JSON/raw tables (minimal transformations)
+* **Silver**: cleaned, typed, deduplicated, normalized tables
+* **Gold**: star schema (facts + dimensions) optimized for BI/reporting
+* **Power BI**: semantic layer (DAX) + report pages
+
+
+![Architecture](docs/png/Architecture.png)
+
+### Gold Layer Schema
+
+**Facts (transactional tables):**
+
+* **`gold.fact_activities`** *(grain: **1 row per activity**)* — the central fact table powering most KPIs and trends.
+* **`gold.fact_best_efforts`** *(grain: **1 row per best effort per activity**)* — PR/best-effort performances (e.g., 1 km / 5 km / 10 km).
+* **`gold.fact_segments_efforts`** *(grain: **1 row per segment effort per activity**)* — efforts on Strava segments linked to both activity and segment.
+* **`gold.fact_laps`** *(grain: **1 row per lap/split per activity**)* — laps/splits for pacing analysis.
+* **`gold.fact_zones`** *(grain: **1 row per zone per activity per type**)* — time in zones (pace/HR).
+* **`gold.fact_kudos`** *(grain: **1 row per kudos giver per activity**)* — social interactions.
+* **`gold.fact_maps_activities`** *(grain: **1 row per map point per activity map**)* — activity geometry (lat/lng points).
+* **`gold.fact_maps_segments`** *(grain: **1 row per map point per segment map**)* — segment geometry (lat/lng points).
+
+**Dimensions (descriptive tables):**
+
+* **`gold.dim_calendar`** — date attributes and hierarchies for **time intelligence**.
+* **`gold.dim_time`** — time-of-day attributes (hour/min/sec) and **day parts** (morning/afternoon/evening).
+* **`gold.dim_location`** — geographic hierarchy (**Country → Region → Locality**).
+* **`gold.dim_gear`** — shoes/bikes/gear metadata and lifetime distance.
+* **`gold.dim_device`** — recording device metadata (watch/bike computer/phone).
+* **`gold.dim_workout_type`** — workout classification (e.g., races vs training runs).
+* **`gold.dim_sport_type`** — sport types and summary categories.
+* **`gold.dim_effort_type`** — best-effort definitions (distance/type).
+* **`gold.dim_segment`** — segment metadata (distance, grade, category, map link, location reference).
+
+**Keys & relationships (high level):**
+
+* **Primary keys (PK):** each table has a unique identifier (e.g., `fact_activities.id`, `dim_location.id`, `dim_segment.id`).
+* **Foreign keys (FK):**
+
+  * `fact_activities` links to multiple dimensions via `date`, `time`, `gear_id`, `location_id`, `device_id`, `workout_type_id`, `sport_type_id`.
+  * `fact_best_efforts`, `fact_laps`, `fact_kudos`, `fact_segments_efforts`, `fact_zones` link back to `fact_activities` via `activity_id`.
+  * `fact_segments_efforts` links to `dim_segment` via `segment_id`.
+  * Map tables link via `map_id` to `fact_activities` and `dim_segment`.
+
+![ERD](docs/png/Gold_ERG.png)
+
+
+---
 
 
 ## 🐍 Python ETL Pipeline
@@ -189,3 +257,33 @@ Thanks to these UDFs, most “final” measures in the report become thin wrappe
 
 ➡️ For a detailed description of individual functions, see the dedicated **DAX user-defined functions (UDFs)** documentation [here](docs/power_bi_functions.md).
 
+## ⚖️ Decisions & Trade-offs
+
+- **Medallion architecture (Bronze / Silver / Gold).**  
+  I separated **raw ingestion** from **cleaned** and **analytics-ready** layers to keep transformations modular and easier to debug.  
+  **Trade-off:** more pipeline steps and tables to maintain, but clearer ownership of logic and simpler iteration.
+
+- **Incremental sync + resilience for Strava API limits.**  
+  Strava API constraints (rate limits, transient errors) required **incremental loading** and **retry/backoff** to make refreshes reliable.  
+  **Trade-off:** added orchestration complexity and state management, but faster refresh cycles and fewer failed runs.
+
+- **Reverse geocoding to fix inconsistent location data.**  
+  Activity locations can be missing or inconsistent, so I enriched them via **reverse geocoding** to enable stable **Country → Region → City** analysis.  
+  **Trade-off:** extra requests/time (and potentially cost), so enrichment is designed to be **cached/reused** instead of recomputed every run.
+
+- **Segment scope limited to running activities.**  
+  I intentionally ingest segment efforts only for **running** activities instead of all sports. Cycling activities can generate a **large volume** of segment efforts that I complete **sporadically**, which adds little analytical value while consuming **API requests** and increasing processing time.  
+  **Trade-off:** the model is less complete for cycling segment analysis, but the pipeline is more efficient and the report can focus on **high-signal running segments** and dedicated **drillthrough** pages.
+
+
+- **Star schema in Gold for BI performance and usability.**  
+  The **Gold** layer is modeled as a **star schema** (facts + dimensions) to optimize **Power BI performance**, simplify relationships, and keep measures readable.  
+  **Trade-off:** stricter modeling and more tables, but better query performance and a more intuitive reporting layer.
+
+- **DAX as the semantic layer (not in SQL).**  
+  I kept part of the business logic in **DAX** to support interactive reporting (dynamic KPIs, context-aware calculations, time intelligence).  
+  **Trade-off:** requires disciplined measure design and performance checks (filter context, cardinality), but enables faster iteration and richer UX in the report.
+
+- **Geometry stored separately (maps facts).**  
+  Map coordinates/polylines are stored in dedicated tables (`fact_maps_*`) to keep the core fact tables lightweight and avoid bloating the model.  
+  **Trade-off:** more joins when rendering maps, but improved overall model performance and cleaner separation of heavy spatial data.
