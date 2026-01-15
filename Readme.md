@@ -15,10 +15,13 @@
 * Data quality fixes such as **reverse geocoding** to enrich/standardize locations when source data is incomplete or inconsistent.
 
 
-
 ## 📚 Table of Contents
 
+- [⚡ Project at a Glance](#-project-at-a-glance)
 - [🧠 Project Summary](#-project-summary)
+- [🏗️ Architecture Diagrams](#️-architecture-diagrams)
+  - [Pipeline](#pipeline)
+  - [Gold Layer Schema](#gold-layer-schema)
 - [🐍 Python ETL Pipeline](#-python-etl-pipeline)
   - [API Ingestion & Bronze Layer](#api-ingestion--bronze-layer)
   - [Silver Layer](#silver-layer)
@@ -29,6 +32,8 @@
   - [Custom Power BI Elements](#custom-power-bi-elements)
   - [DAX Measures](#dax-measures)
   - [DAX user-defined functions (UDFs)](#dax-user-defined-functions-udfs)
+- [⚖️ Decisions & Trade-offs](#️-decisions--trade-offs)
+
 
 
 ## 🧠 Project Summary
