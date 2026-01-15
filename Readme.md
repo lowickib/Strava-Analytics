@@ -5,16 +5,30 @@
 📎 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTdiMWRkOGYtNGE0Ny00YmI5LWJiYzAtYWYxZGQ2MmFmMmM0IiwidCI6IjY0YmU5OWY5LTI2N2MtNDIxMS1iMDlhLTQ0YmZlNjYyMzY0MCJ9&pageName=b48096df7ec0b97d2d07)
 
 
+## 🧠 Project Summary
+
+**Strava Analytics** is a personal end-to-end analytics platform built on top of my **private Strava data**, enriched with **publicly available non-personal Strava information** (e.g., segment metadata). I created it to fill gaps in the native Strava app—such as quickly answering basic questions like **“How many kilometers did I run this year?”**—and to explore training history with deeper, customizable analysis.
+
+The project implements a full **Medallion (Bronze/Silver/Gold) architecture** in **PostgreSQL**, powered by a **Python ETL pipeline** and topped with an interactive **Power BI** report.
+
+* **Bronze (ingestion):** Reliable Strava API extraction with OAuth2 authentication, incremental sync, rate-limit handling, and auditable storage (including JSONB for nested payloads).
+* **Silver (curation):** Transformation of raw payloads into clean relational tables with consistent grains/keys, plus practical enrichments—most importantly a **standardized location dimension via reverse geocoding**, introduced because Strava removed activity-level location fields and segment locations were inconsistent.
+* **Gold (modeling):** An analytics-ready **star schema** designed for BI performance, centered on a 1-row-per-activity fact table and supporting dimensions/fact tables for deeper drillthrough (laps, efforts, zones, kudos, and map geometry).
+
+On top of the Gold layer, the **Power BI dashboard** turns the dataset into an interactive training analytics experience: activity exploration, yearly summaries, gear tracking, training intensity analysis, segment/Local Legend views, and “year in review” storytelling—supported by a structured semantic model, reusable DAX patterns, and custom UX elements to make the report feel more like an app than a static BI file.
+
+
+
+
 ## 🐍 Python ETL Pipeline
 
 This part implements an end-to-end **Python-based ETL pipeline** for Strava data using a **Medallion architecture** in **PostgreSQL**.
 
 Data is ingested from the **Strava API** into a **Bronze layer** that prioritizes **reliability and auditability** (authenticated access, incremental sync patterns, and resilient persistence). It is then transformed into a **Silver layer** of **clean, relational, analysis-ready tables**, where nested API structures are normalized and key enrichments are applied—most notably a **standardized location dimension via reverse geocoding**, introduced because activity-level location fields were removed from the official API and segment locations were inconsistent. Finally, the **Gold layer** models the curated data into an **analytics-ready star schema** optimized for BI consumption (e.g., Power BI), with consistent grains, keys, and relationships that enable scalable reporting and time-based analysis.
 
-<details>
-<summary>API Ingestion & Bronze Layer</summary>
+---
 
-## API Ingestion & Bronze Layer
+### API Ingestion & Bronze Layer
 
 This notebook implements the **Bronze ingestion layer**: **OAuth2-authenticated** extraction from the **Strava API v3** into **PostgreSQL**, designed for **replayable** and **rate-limit-aware** syncing.
 
@@ -25,13 +39,9 @@ This notebook implements the **Bronze ingestion layer**: **OAuth2-authenticated*
 
 ➡️ For a detailed description of Bronze Layer, see the dedicated **API Ingestion & Bronze Layer** documentation [here](docs/python_bronze.md).
 
-</details>
+---
 
-
-<details>
-<summary>Silver Layer</summary>
-
-## Silver Layer 
+### Silver Layer 
 
 This notebook builds the **Silver Layer** by transforming raw **Bronze Strava API payloads** into **clean, relational, analysis-ready tables** in **PostgreSQL**. While Bronze stores data in a **lossless and replayable** form, Silver focuses on **normalization, consistent grains/keys, and practical enrichments** required by the downstream **Gold layer** and **Power BI**.
 
@@ -58,13 +68,9 @@ What the notebook does:
 
 ➡️ For a detailed description of Silver Layer, see the dedicated **Silver Layer** documentation [here](docs/python_silver.md).
 
-</details>
+---
 
-
-<details>
-<summary>Gold Layer</summary>
-
-## Gold Layer
+### Gold Layer
 
 The **Gold Layer** turns curated **Silver** data into an **analytics-ready star schema** in **PostgreSQL**, designed for direct consumption by **Power BI**.
 
@@ -76,7 +82,6 @@ The result is a stable, BI-friendly layer with **consistent grains, keys, and re
 
 ➡️ For a detailed description of Gold Layer, see the dedicated **Gold Layer** documentation [here](docs/python_gold.md).
 
-</details>
 
 
 
@@ -85,11 +90,9 @@ The result is a stable, BI-friendly layer with **consistent grains, keys, and re
 
 This project includes an end-to-end **Power BI report** built on top of the **Gold layer** in PostgreSQL, turning raw Strava exports into an interactive **training analytics app**. The model follows a clean **star schema** with a rich **DAX layer**, **helper tables** and **user-defined functions (UDFs)** that power **dynamic slicers**, **metric toggles**, **time-intelligence** and storytelling features such as **yearly rewinds**, **training load** and **segment / Local Legend** analysis. Custom **UX patterns** (collapsible navigation, metric/period toggles, pop-ups, Deneb visuals) make the report feel closer to a modern **web dashboard** than a standard Power BI file.
 
+---
 
-<details>
-<summary>Data Model Overview</summary>
-
-## Data Model Overview
+### Data Model Overview
 
 The Power BI model follows a **star schema** centered on the **`gold fact_activities`** table, which stores individual **Strava activities** (runs, rides, walks, etc.). This **core fact table** is linked to a set of **dimension tables** for **date** (**`gold dim_calendar`**), **time of day** (**`gold dim_time`**), **sport type** (**`gold dim_sport_type`**), **workout type** (**`gold dim_workout_type`**), **gear** (**`gold dim_gear`**), **location** (**`gold dim_location`**), **device** (**`gold dim_device`**) and **segments / effort types** (**`gold dim_segment`**, **`gold dim_effort_type`**).
 
@@ -99,12 +102,9 @@ All KPIs and advanced logic are implemented in a **measure-only table** (**`Meas
 
 ➡️ For a detailed description of data model, see the dedicated **Data Model** documentation [here](docs/power_bi_data_model.md).
 
-</details>
+---
 
-<details>
-<summary>Power BI Dashboard Overview</summary>
-
-## Power BI Dashboard Overview
+### Power BI Dashboard Overview
 
 The **Power BI report** sits on top of the **Gold** layer in PostgreSQL and gives a complete view of my **Strava training history**.
 
@@ -121,12 +121,10 @@ The pages are organized around key questions a Strava power user might ask:
 - **Rewind** – a **“year in review”** experience comparing two years side by side: total time, top sports, days active, longest streaks and top locations/kudoers.
 
 ➡️ A detailed page-by-page description can be found [here](docs/power_bi_dashboard.md).
-</details>
 
-<details>
-<summary>Custom Power BI Elements</summary>
+---
 
-## Custom Power BI Elements
+### Custom Power BI Elements
 
 To make the report feel more like a **web app** than a standard Power BI report, I implemented several custom UX patterns using only **native features** (bookmarks, buttons, field parameters, DAX) plus one **Deneb** visual:
 
@@ -139,11 +137,9 @@ To make the report feel more like a **web app** than a standard Power BI report,
 
 ➡️ Detailed descriptions, screenshots and Vega-Lite specs are available [here](docs/power_bi_custom_elements.md).
 
-</details>
-<details>
-<summary>DAX Measures</summary>
+---
 
-## DAX Measures
+### DAX Measures
 
 The report uses a **rich DAX layer**, but it is built almost entirely on **standard DAX functions** such as **`SUM`**, **`AVERAGE`**, **`DISTINCTCOUNT`**, **`DIVIDE`**, **`CALCULATE`**, **`FILTER`**, **`DATESINPERIOD`**, **`SELECTEDVALUE`**, **`SWITCH`**, **`IF`**, **`FORMAT`** and **`LOOKUPVALUE`**.
 
@@ -159,12 +155,10 @@ At a high level, the measures fall into a few main groups:
 * **UX helpers** – icon/image measures, explanatory text blocks and empty-state placeholders that make the report feel more like an **interactive training app** than a static dashboard.
 
 ➡️ For a detailed description of individual measures and patterns, see the dedicated **DAX Measures** documentation [here](docs/power_bi_measures.md).
-</details>
 
-<details>
-<summary>DAX user-defined functions (UDFs)</summary>
+---
 
-## DAX user-defined functions (UDFs)
+### DAX user-defined functions (UDFs)
 
 The project makes extensive use of **Power BI DAX user-defined functions** to keep the model **modular**, **reusable** and **easy to maintain**. Instead of repeating complex logic across multiple measures, I encapsulated it into parameterised functions and reused them throughout the report.
 
@@ -180,4 +174,4 @@ At a high level, these UDFs cover:
 Thanks to these UDFs, most “final” measures in the report become thin wrappers around **shared building blocks**, which improves **readability**, **consistency** and makes it much easier to **extend** the model with new metrics in the future.
 
 ➡️ For a detailed description of individual functions, see the dedicated **DAX user-defined functions (UDFs)** documentation [here](docs/power_bi_functions.md).
-</details>
+
