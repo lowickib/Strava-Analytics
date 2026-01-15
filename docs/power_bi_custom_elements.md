@@ -56,7 +56,7 @@ This pattern allows the page to behave like a **training load dashboard** found 
 
 ### Custom Deneb visuals for lap pace & heart rate
 
-![Deneb Visuals](png/Deneb_visuals.png)
+![Deneb Visuals](png/Deneb_Visuals.png)
 
 For the **Lap Pace Analysis** and **Lap Heart Rate Analysis** on the running activity detail pages I use a custom visual built with **Deneb (Vega-Lite)** instead of standard Power BI bar charts.
 

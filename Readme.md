@@ -33,6 +33,8 @@
   - [DAX Measures](#dax-measures)
   - [DAX user-defined functions (UDFs)](#dax-user-defined-functions-udfs)
 - [⚖️ Decisions & Trade-offs](#️-decisions--trade-offs)
+- [📚 Creator Resources & Inspiration](#-creator-resources--inspiration)
+
 
 
 
@@ -292,3 +294,19 @@ Thanks to these UDFs, most “final” measures in the report become thin wrappe
 - **Geometry stored separately (maps facts).**  
   Map coordinates/polylines are stored in dedicated tables (`fact_maps_*`) to keep the core fact tables lightweight and avoid bloating the model.  
   **Trade-off:** more joins when rendering maps, but improved overall model performance and cleaner separation of heavy spatial data.
+
+
+## 📚 Creator Resources & Inspiration
+
+The following creator-made materials helped shape parts of this project (ideas, approaches, and implementation patterns):
+
+- **YouTube (video):** “Strava API + data analysis”  
+  https://www.youtube.com/watch?v=DNJfUPfSZpY
+
+- **Towards Data Science (article):** “Using the Strava API and Pandas to Explore Your Activity Data”  
+  https://towardsdatascience.com/using-the-strava-api-and-pandas-to-explore-your-activity-data-d94901d9bfde/
+
+- **GitHub (project):** `statistics-for-strava` (reference implementation / inspiration)  
+  https://github.com/robiningelbrecht/statistics-for-strava
+
+> Note: This project is an original end-to-end implementation (Python → PostgreSQL medallion → Gold star schema → Power BI). The links above are included for attribution and as learning references.
