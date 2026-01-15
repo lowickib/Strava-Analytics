@@ -4,9 +4,81 @@
 
 📎 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTdiMWRkOGYtNGE0Ny00YmI5LWJiYzAtYWYxZGQ2MmFmMmM0IiwidCI6IjY0YmU5OWY5LTI2N2MtNDIxMS1iMDlhLTQ0YmZlNjYyMzY0MCJ9&pageName=b48096df7ec0b97d2d07)
 
-# README – under construction 🚧 
 
-This README is under construction. More details coming soon. ✨
+## 🐍 Python ETL Pipeline
+
+This part implements an end-to-end **Python-based ETL pipeline** for Strava data using a **Medallion architecture** in **PostgreSQL**.
+
+Data is ingested from the **Strava API** into a **Bronze layer** that prioritizes **reliability and auditability** (authenticated access, incremental sync patterns, and resilient persistence). It is then transformed into a **Silver layer** of **clean, relational, analysis-ready tables**, where nested API structures are normalized and key enrichments are applied—most notably a **standardized location dimension via reverse geocoding**, introduced because activity-level location fields were removed from the official API and segment locations were inconsistent. Finally, the **Gold layer** models the curated data into an **analytics-ready star schema** optimized for BI consumption (e.g., Power BI), with consistent grains, keys, and relationships that enable scalable reporting and time-based analysis.
+
+<details>
+<summary>API Ingestion & Bronze Layer</summary>
+
+## API Ingestion & Bronze Layer
+
+This notebook implements the **Bronze ingestion layer**: **OAuth2-authenticated** extraction from the **Strava API v3** into **PostgreSQL**, designed for **replayable** and **rate-limit-aware** syncing.
+
+* **Endpoints:** activities list + per-activity **details** , **kudos**, **zones**, and **running-only segment details** (to fit the strict **daily request budget** and match running-focused analysis).
+* **Limits handled:** **100 req / 15 min** and **1,000 req / day** with **HTTP 429 + Retry-After**, **retry/backoff with jitter**, and **7–9s per-call delay** on per-activity requests.
+* **Incremental strategy:** `activities` as a **snapshot overwrite**; `activities_details` refreshed for **missing IDs + last 30 days** to capture changes like **kudos_count**, **description**, and **workout/activity type**; writes use **staging + UPSERT**.
+* **Storage:** minimal transformations, preserving selected nested fields as **JSONB** (e.g., `segment_efforts`, `splits`, `laps`, zone `distribution_buckets`).
+
+➡️ For a detailed description of Bronze Layer, see the dedicated **API Ingestion & Bronze Layer** documentation [here](docs/python_bronze.md).
+
+</details>
+
+
+<details>
+<summary>Silver Layer</summary>
+
+## Silver Layer 
+
+This notebook builds the **Silver Layer** by transforming raw **Bronze Strava API payloads** into **clean, relational, analysis-ready tables** in **PostgreSQL**. While Bronze stores data in a **lossless and replayable** form, Silver focuses on **normalization, consistent grains/keys, and practical enrichments** required by the downstream **Gold layer** and **Power BI**.
+
+What the notebook does:
+
+* **Normalizes nested Strava structures into relational tables**
+  Flattens arrays and objects from `bronze.activities_details` (e.g., **segment_efforts**, **laps**, **best_efforts**) and converts them into dedicated Silver tables with clear **row grain** and reusable keys.
+
+* **Creates curated activity-level outputs**
+  Produces a clean **1-row-per-activity** table as the main analytical base, with standardized column naming, typed fields, and safeguards for missing/empty payloads.
+
+* **Zones as bucket-level facts**
+  Explodes `distribution_buckets` from `bronze.activities_zones` into **bucket-level rows** (by zone type), enabling straightforward time-in-zone analysis without JSON parsing.
+
+* **Reverse geocoding for a standardized location dimension**
+  Because **activity location fields were removed from the official Strava API**, and segment locations were **inconsistent** (sometimes Polish, sometimes English), the notebook uses **start coordinates** to derive a **standardized city/region/country**. Results are **deduplicated and cached** in a reusable locations table to avoid repeated lookups and to keep the dimension consistent.
+
+* **Maps: polylines → point-level geometry**
+  Decodes Strava polylines into **ordered lat/lng points** (1 row per point), creating a reusable geometry dataset for spatial visuals and route-based analysis.
+
+* **Deterministic persistence (full refresh)**
+  Writes curated outputs into the **`silver` schema** using **full refresh (`replace`)**, keeping the layer reproducible and easy to validate.
+
+
+➡️ For a detailed description of Silver Layer, see the dedicated **Silver Layer** documentation [here](docs/python_silver.md).
+
+</details>
+
+
+<details>
+<summary>Gold Layer</summary>
+
+## Gold Layer
+
+The **Gold Layer** turns curated **Silver** data into an **analytics-ready star schema** in **PostgreSQL**, designed for direct consumption by **Power BI**.
+
+At the center is **`gold fact_activities`** (**1 row per activity**), linked to key **dimension tables** such as **calendar/time**, **sport & workout type**, **gear**, **device**, **location** (based on Silver reverse geocoding), and **segments / effort types**.
+
+Additional **fact tables** capture detailed grains for analysis and drillthrough: **laps**, **best efforts**, **segment efforts**, **training zones**, **kudos**, and **map geometry** (activity + segment polylines stored as point-level tables for spatial visuals).
+
+The result is a stable, BI-friendly layer with **consistent grains, keys, and relationships**, enabling time intelligence, segment analytics, gear tracking, intensity analysis, and map-based reporting without extra modeling effort in the BI tool.
+
+➡️ For a detailed description of Gold Layer, see the dedicated **Gold Layer** documentation [here](docs/python_gold.md).
+
+</details>
+
+
 
 
 ## 📊 Power BI Reporting & Analytics
@@ -19,7 +91,7 @@ This project includes an end-to-end **Power BI report** built on top of the **Go
 
 ## Data Model Overview
 
-The Power BI model follows a **star schema** centered on the **`gold fact_activities`** table, which stores individual **Strava activities** (runs, rides, rides, walks, etc.). This **core fact table** is linked to a set of **dimension tables** for **date** (**`gold dim_calendar`**), **time of day** (**`gold dim_time`**), **sport type** (**`gold dim_sport_type`**), **workout type** (**`gold dim_workout_type`**), **gear** (**`gold dim_gear`**), **location** (**`gold dim_location`**), **device** (**`gold dim_device`**) and **segments / effort types** (**`gold dim_segment`**, **`gold dim_effort_type`**).
+The Power BI model follows a **star schema** centered on the **`gold fact_activities`** table, which stores individual **Strava activities** (runs, rides, walks, etc.). This **core fact table** is linked to a set of **dimension tables** for **date** (**`gold dim_calendar`**), **time of day** (**`gold dim_time`**), **sport type** (**`gold dim_sport_type`**), **workout type** (**`gold dim_workout_type`**), **gear** (**`gold dim_gear`**), **location** (**`gold dim_location`**), **device** (**`gold dim_device`**) and **segments / effort types** (**`gold dim_segment`**, **`gold dim_effort_type`**).
 
 Additional **fact tables** – **`gold fact_best_efforts`**, **`gold fact_laps`**, **`gold fact_segments_efforts`**, **`gold fact_zones`**, **`gold fact_kudos`**, and map tables (**`gold fact_maps_activities`**, **`gold fact_maps_segments`**) – capture **best performances**, **laps/splits**, **segment efforts**, **time in training zones**, **social interactions** and **GPS geometry** for routes and segments.
 
@@ -48,7 +120,7 @@ The pages are organized around key questions a Strava power user might ask:
 - **Period Summary** – analysis of **when** I train: heatmaps by year/month and by day of week/day part, plus average monthly and daily training time.  
 - **Rewind** – a **“year in review”** experience comparing two years side by side: total time, top sports, days active, longest streaks and top locations/kudoers.
 
-➡️ A detailed page-by-page description can be found here [here](docs/power_bi_dashboard.md).
+➡️ A detailed page-by-page description can be found [here](docs/power_bi_dashboard.md).
 </details>
 
 <details>

@@ -29,10 +29,7 @@ There are also **helper / calculated tables** (**`Measures Table`**, **`SummaryT
 | `gold fact_maps_segments`    | `gold dim_segment`      | `gold fact_maps_segments[map_id]`    | `gold dim_segment[map_id]`     | **Yes**           | Stores **polyline / coordinates** for **segments**.                                                                                                     |
 | `gold dim_segment`           | `gold dim_location`     | `gold dim_segment[location_id]`      | `gold dim_location[id]`        | **No (inactive)** | **Helper relationship** – segment location is typically resolved via **LOOKUPVALUE** into calculated columns (**Country, Region, Locality, Location**). |
 
-Możesz to wkleić bezpośrednio do **README.md** – GitHub ładnie wyrenderuje tabelę.
-
-
-
+---
 
 ### Dimension Tables
 
