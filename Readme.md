@@ -4,6 +4,20 @@
 
 📎 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTdiMWRkOGYtNGE0Ny00YmI5LWJiYzAtYWYxZGQ2MmFmMmM0IiwidCI6IjY0YmU5OWY5LTI2N2MtNDIxMS1iMDlhLTQ0YmZlNjYyMzY0MCJ9&pageName=b48096df7ec0b97d2d07)
 
+## 📚 Table of Contents
+
+- [🧠 Project Summary](#-project-summary)
+- [🐍 Python ETL Pipeline](#-python-etl-pipeline)
+  - [API Ingestion & Bronze Layer](#api-ingestion--bronze-layer)
+  - [Silver Layer](#silver-layer)
+  - [Gold Layer](#gold-layer)
+- [📊 Power BI Reporting & Analytics](#-power-bi-reporting--analytics)
+  - [Data Model Overview](#data-model-overview)
+  - [Power BI Dashboard Overview](#power-bi-dashboard-overview)
+  - [Custom Power BI Elements](#custom-power-bi-elements)
+  - [DAX Measures](#dax-measures)
+  - [DAX user-defined functions (UDFs)](#dax-user-defined-functions-udfs)
+
 
 ## 🧠 Project Summary
 
